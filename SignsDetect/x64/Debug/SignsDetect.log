@@ -1,0 +1,6 @@
+﻿  SignsDetect.cpp
+c:\local\trsigns\signsdetect\signsdetect\signsdetect.cpp(150): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\local\trsigns\signsdetect\signsdetect\signsdetect.cpp(201): warning C4305: аргумент: усечение из "double" к "float"
+c:\local\trsigns\signsdetect\signsdetect\signsdetect.cpp(202): warning C4305: аргумент: усечение из "double" к "float"
+  SignsDetect.vcxproj -> C:\local\TrSigns\SignsDetect\x64\Debug\SignsDetect.exe
+  SignsDetect.vcxproj -> C:\local\TrSigns\SignsDetect\x64\Debug\SignsDetect.pdb (Full PDB)
